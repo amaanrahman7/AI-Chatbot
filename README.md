@@ -1,0 +1,1 @@
+AmaanGPT is an AI chatbot built using LangChain, HuggingFace embeddings, and the LLaMA-3.1-70b model. It processes PDFs, splitting them into smaller text chunks, and provides accurate, context-based responses through Retrieval-Augmented Generation (RAG). The app is hosted on Streamlit and integrated with Groq API for seamless interaction.
